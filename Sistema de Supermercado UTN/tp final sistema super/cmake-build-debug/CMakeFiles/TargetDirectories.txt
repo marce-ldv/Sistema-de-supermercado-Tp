@@ -1,0 +1,3 @@
+C:/Users/marce/Desktop/Sistema de Supermercado UTN/tp final sistema super/cmake-build-debug/CMakeFiles/tp_2do.dir
+C:/Users/marce/Desktop/Sistema de Supermercado UTN/tp final sistema super/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/marce/Desktop/Sistema de Supermercado UTN/tp final sistema super/cmake-build-debug/CMakeFiles/rebuild_cache.dir

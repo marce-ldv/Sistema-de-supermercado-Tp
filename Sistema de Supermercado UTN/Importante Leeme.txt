@@ -1,0 +1,22 @@
+Querido usuario: 
+
+Para acceder al sistema debe seguir los siguientes pasos:
+
+OPCION 1:
+
+1- Acceder a la carpeta tp final sistema super
+
+2- Acceder a la carpeta cmake-build-debug
+
+3- Ejecutar el archivo tp_2do.exe
+
+4- Disfrute nuestro programa
+
+OPCION 2:
+
+Abrir el ejecutable tp_2do.exe
+
+
+Ante cualquier consulta no dude en contactarse con nosotros.
+
+Programadores: Marcelo Fabian Ludovino, Franco Chiappe
